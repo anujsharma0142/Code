@@ -2,7 +2,7 @@
 !*.cpp
 !*.java
 !*.py
-C++/!*.cpp
+!C++/*.cpp
 Python/*
 Python/!*.py
 Java/*
