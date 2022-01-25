@@ -2,6 +2,8 @@
 !*.cpp
 !*.java
 !*.py
+C++/*
+C++/!*.cpp
 Python/*
 Python/!*.py
 Java/*
@@ -10,7 +12,6 @@ LeetCode/*
 LeetCode/!*.cpp
 LeetCode/!*.java
 LeetCode/!*.py
-temp
 .vscode/
 temp/
 temp.*
