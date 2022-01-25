@@ -1,0 +1,14 @@
+C++/*
+C++/!*.cpp
+Python/*
+Python/!*.py
+Java/*
+Java/!*.java
+LeetCode/*
+LeetCode/!*.cpp
+LeetCode/!*.java
+LeetCode/!*.py
+temp
+.vscode/
+temp/
+temp.*
