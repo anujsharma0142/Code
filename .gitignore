@@ -2,10 +2,9 @@
 !*.cpp
 !*.java
 !*.py
-./C++/*
-./C++/!*.cpp
-./Python/*
-./Python/!*.py
+C++/!*.cpp
+Python/*
+Python/!*.py
 Java/*
 Java/!*.java
 LeetCode/*
