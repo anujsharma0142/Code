@@ -2,8 +2,6 @@
 !*.cpp
 !*.java
 !*.py
-C++/*
-C++/!*.cpp
 Python/*
 Python/!*.py
 Java/*
